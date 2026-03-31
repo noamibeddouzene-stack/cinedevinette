@@ -381,7 +381,11 @@ function renderGame() {
   const f = G.film; if (!f) return;
   const blurs = ['blur-5','blur-4','blur-3','blur-2','blur-1','blur-0'];
   const img = document.getElementById('film-img');
+  if (G.done && G.won) {
+  img.className = 'film-image blur-0';
+} else {
   img.className = 'film-image ' + blurs[Math.min(G.ind, 5)];
+}
   img.src = f.image || '';
   img.style.display = 'block';
   const fb = document.getElementById('film-fallback');
