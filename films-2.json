@@ -1,0 +1,29 @@
+{
+  "films": [
+    {
+      "id": "mngutt7m71vi",
+      "titre": "Mulan",
+      "titreVO": "Mulan",
+      "annee": 1998,
+      "genre": "Animation",
+      "realisateur": "Tony Bancroft & Barry Cook",
+      "acteur": "Ming-Na Wen",
+      "image": "https://image.tmdb.org/t/p/original/cTQiSrWhTDJPW8p56CUCoVNJZYl.jpg",
+      "date": "2026-04-03",
+      "pays": "",
+      "alternativeTitles": [],
+      "critique": "",
+      "auteurCritique": "",
+      "noteAdmin": 4,
+      "indices": [
+        "Ce film est sorti en 1998 et est produit par Disney.",
+        "Il s’agit d’un film d’animation inspiré d’une légende",
+        "Un dragon miniature accompagne le personnage principal",
+        "Le film met en avant des thèmes comme le courage, l’honneur et l’identité.",
+        "L’héroïne se fait passer pour un homme afin de prendre la place de son père à la guerre."
+      ],
+      "fallbackColor": "#1a1a2a"
+    }
+  ],
+  "exportedAt": "2026-04-02T02:28:06.967Z"
+}
